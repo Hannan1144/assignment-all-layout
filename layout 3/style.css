@@ -26,11 +26,13 @@ section {
     background-color: tomato;
     float: left;
     text-align: center;
+    overflow: hidden;
 }
 .module-title {
     height: 10%;
     background-color: greenyellow;
     width: 100%;
+    overflow: hidden;
 }
 .module-title-h3 {
     padding-top: 10px;
@@ -40,6 +42,7 @@ section {
     height: 15%;
     background-color: navajowhite;
     width: 100%;
+    overflow: hidden;
 }
 .module-content-h3 {
     padding-top: 20px;
@@ -48,6 +51,7 @@ section {
     height: 30%;;
     background-color: brown;
     width: 100%;
+    overflow: hidden;
 }
 .module-item-h3 {
     padding-top: 50px;
@@ -61,12 +65,14 @@ section {
     background-color: orange;
     float: left;
     text-align: center;
+    overflow: hidden;
 
 }
 .page-content {
     height: 40%;
     width: 100%;
     background-color: lightslategrey;
+    overflow: hidden;
 }
 .page-content-h3 {
     padding-top: 70px;
@@ -76,18 +82,22 @@ section {
     width: 100%;
     background-color: maroon;
     color: white;
+    overflow: hidden;
 }
 .page-item2 {
     height: 10%;
     width: 100%;
     background-color: rgb(190, 65, 65);
     color: white;
+    overflow: hidden;
+    overflow: hidden;
 }
 .page-item3 {
     height: 10%;
     width: 100%;
     background-color: rgb(158, 88, 88);
     color: white;
+    overflow: hidden;
 }
 .page-item-h3 {
     padding-top: 10px;
@@ -97,6 +107,7 @@ section {
     width: 100%;
     background-color: rgb(4, 38, 73);
     color: white;
+    overflow: hidden;
 }
 .middle-bar-h3 {
     padding-top: 45px;
@@ -108,6 +119,7 @@ section {
     background-color: gray;
     float: left;
     text-align: center;
+    overflow: hidden;
 }
 .right-block-h3 {
     padding-top: 50%;
@@ -117,6 +129,7 @@ footer {
     height: 100px;
     background-color: indianred;
     text-align: center;
+    overflow: hidden;
 }
 footer h1 {
     padding-top: 30px;
